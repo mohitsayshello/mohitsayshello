@@ -1,5 +1,4 @@
 Hi there! 👋
-
 I'm Mohit Gawande, an aspiring web developer passionate about learning and building responsive, user-friendly websites and applications. Currently diving into HTML, CSS, JavaScript, and exploring frameworks like React and Node.js. I'm excited to collaborate on beginner-friendly projects, share my progress, and contribute to open-source.
 
 🌱 What I’m currently learning: Web development fundamentals and modern frameworks.
